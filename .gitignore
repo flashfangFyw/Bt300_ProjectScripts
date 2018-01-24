@@ -23,8 +23,18 @@ ExportedObj/
 *.svd
 *.pdb
 
+ibrary/
+Temp/
+*.sln
+*.csproj
+*.sln
+*.userprefs
+*.unityproj
+*.DS_Store
+
 # Unity3D generated meta files
 *.pidb.meta
+*.meta
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
